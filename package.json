@@ -1,7 +1,7 @@
 {
   "name": "testnpm",
-  "version": "1.3.0",
-  "description": "version 1.3.0",
+  "version": "2.1.8",
+  "description": "version 2.1.8",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"

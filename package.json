@@ -1,0 +1,19 @@
+{
+  "name": "testnpm",
+  "version": "0.0.1",
+  "description": "aaaaaaaa",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Chunlin-Li/testnpm.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Chunlin-Li/testnpm/issues"
+  },
+  "homepage": "https://github.com/Chunlin-Li/testnpm#readme"
+}
